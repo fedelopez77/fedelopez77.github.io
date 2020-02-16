@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Federico Barrios | Federico López</title>
+    <link>https://fedelopez77.github.io/authors/federico-barrios/</link>
+      <atom:link href="https://fedelopez77.github.io/authors/federico-barrios/index.xml" rel="self" type="application/rss+xml" />
+    <description>Federico Barrios</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 05 Aug 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fedelopez77.github.io/img/icon-192.png</url>
+      <title>Federico Barrios</title>
+      <link>https://fedelopez77.github.io/authors/federico-barrios/</link>
+    </image>
+    
+    <item>
+      <title>Variations of the Similarity Function of TextRank for Automated Summarization</title>
+      <link>https://fedelopez77.github.io/publication/textrank_2016_asai/</link>
+      <pubDate>Wed, 05 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://fedelopez77.github.io/publication/textrank_2016_asai/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

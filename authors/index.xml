@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Authors | Federico López</title>
+    <link>https://fedelopez77.github.io/authors/</link>
+      <atom:link href="https://fedelopez77.github.io/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 06 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fedelopez77.github.io/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://fedelopez77.github.io/authors/</link>
+    </image>
+    
+    <item>
+      <title>**Federico López**</title>
+      <link>https://fedelopez77.github.io/authors/federico-lopez/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://fedelopez77.github.io/authors/federico-lopez/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Benjamin Heinzerling</title>
+      <link>https://fedelopez77.github.io/authors/benjamin-heinzerling/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://fedelopez77.github.io/authors/benjamin-heinzerling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Michael Strube</title>
+      <link>https://fedelopez77.github.io/authors/michael-strube/</link>
+      <pubDate>Thu, 06 Jun 2019 00:00:00 +0000</pubDate>
+      <guid>https://fedelopez77.github.io/authors/michael-strube/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Federico Barrios</title>
+      <link>https://fedelopez77.github.io/authors/federico-barrios/</link>
+      <pubDate>Wed, 05 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://fedelopez77.github.io/authors/federico-barrios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Luis Argerich</title>
+      <link>https://fedelopez77.github.io/authors/luis-argerich/</link>
+      <pubDate>Wed, 05 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://fedelopez77.github.io/authors/luis-argerich/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rosa Wachenchauzer</title>
+      <link>https://fedelopez77.github.io/authors/rosa-wachenchauzer/</link>
+      <pubDate>Wed, 05 Aug 2015 00:00:00 +0000</pubDate>
+      <guid>https://fedelopez77.github.io/authors/rosa-wachenchauzer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://fedelopez77.github.io/authors/admin/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://fedelopez77.github.io/authors/admin/</guid>
+      <description>&lt;p&gt;I am a Ph.D candidate in &lt;a href=&#34;https://www.h-its.org/&#34;&gt;HITS&lt;/a&gt; at Heidelberg University. Prior to this, I studied Software Engineering at &lt;a href=&#34;http://www.fi.uba.ar/&#34;&gt;University of Buenos Aires&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Engineer by curiosity. Nerd by definition. I was captivated by the logical and mathematical algorithmic problems, an amusing and intriguing riddle for me. While working on my thesis, I discovered NLP, which I found totally fascinating due to its relation with texts of any kind and nature. My research interests include learning more expressive representations by exploring non-Euclidean geometries, and graph-based methods for NLP.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
