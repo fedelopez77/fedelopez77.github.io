@@ -5,12 +5,20 @@
     <link>https://fedelopez77.github.io/authors/michael-strube/</link>
       <atom:link href="https://fedelopez77.github.io/authors/michael-strube/index.xml" rel="self" type="application/rss+xml" />
     <description>Michael Strube</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 06 Jun 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 05 Oct 2020 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://fedelopez77.github.io/img/icon-192.png</url>
+      <url>https://fedelopez77.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Michael Strube</title>
       <link>https://fedelopez77.github.io/authors/michael-strube/</link>
     </image>
+    
+    <item>
+      <title>A Fully Hyperbolic Neural Model for Hierarchical Multi-Class Classification</title>
+      <link>https://fedelopez77.github.io/publication/hyfi_2020_emnlp/</link>
+      <pubDate>Mon, 05 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://fedelopez77.github.io/publication/hyfi_2020_emnlp/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Fine-Grained Entity Typing in Hyperbolic Space</title>

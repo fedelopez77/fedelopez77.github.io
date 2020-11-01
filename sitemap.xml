@@ -3,8 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://fedelopez77.github.io/authors/federico-lopez/</loc>
+    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fedelopez77.github.io/publication_types/1/</loc>
+    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fedelopez77.github.io/publication/hyfi_2020_emnlp/</loc>
+    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fedelopez77.github.io/authors/</loc>
+    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://fedelopez77.github.io/</loc>
-    <lastmod>2020-02-16T19:30:02+01:00</lastmod>
+    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fedelopez77.github.io/authors/michael-strube/</loc>
+    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fedelopez77.github.io/publication_types/</loc>
+    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://fedelopez77.github.io/publication/</loc>
+    <lastmod>2020-10-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -23,28 +58,8 @@
   </url>
   
   <url>
-    <loc>https://fedelopez77.github.io/categories/</loc>
-    <lastmod>2020-02-14T19:36:15+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://fedelopez77.github.io/project/langdetect/</loc>
     <lastmod>2020-02-14T19:36:15+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fedelopez77.github.io/authors/federico-lopez/</loc>
-    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fedelopez77.github.io/publication_types/1/</loc>
-    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fedelopez77.github.io/authors/</loc>
-    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
   </url>
   
   <url>
@@ -54,21 +69,6 @@
   
   <url>
     <loc>https://fedelopez77.github.io/publication/figet_2019_repl4nlp/</loc>
-    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fedelopez77.github.io/authors/michael-strube/</loc>
-    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fedelopez77.github.io/publication_types/</loc>
-    <lastmod>2019-06-06T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://fedelopez77.github.io/publication/</loc>
     <lastmod>2019-06-06T00:00:00+00:00</lastmod>
   </url>
   
@@ -94,6 +94,10 @@
   
   <url>
     <loc>https://fedelopez77.github.io/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://fedelopez77.github.io/categories/</loc>
   </url>
   
   <url>
