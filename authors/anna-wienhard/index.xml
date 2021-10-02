@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anna Wienhard | Federico López</title>
+    <link>https://fedelopez77.github.io/authors/anna-wienhard/</link>
+      <atom:link href="https://fedelopez77.github.io/authors/anna-wienhard/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anna Wienhard</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 09 Jun 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://fedelopez77.github.io/images/icon_hue06e0706ba708aed8721944017f1423b_98134_512x512_fill_lanczos_center_2.png</url>
+      <title>Anna Wienhard</title>
+      <link>https://fedelopez77.github.io/authors/anna-wienhard/</link>
+    </image>
+    
+    <item>
+      <title>Symmetric Spaces for Graph Embeddings: A Finsler-Riemannian Approach</title>
+      <link>https://fedelopez77.github.io/publication/sympa_2021_icml/</link>
+      <pubDate>Wed, 09 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>https://fedelopez77.github.io/publication/sympa_2021_icml/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
